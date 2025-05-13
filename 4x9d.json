@@ -1,4 +1,5 @@
 {
   "backend_url": "http://localhost:3000",
-  "config_header_name": "xtension"
+  "config_header_name": "xtension",
+  "version": "1",
 }
