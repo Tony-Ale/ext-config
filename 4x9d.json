@@ -1,7 +1,7 @@
 {
   "backend_url": "http://localhost:3000",
   "config_header_name": "xtension",
-  "pricing": "https://caiman-alert-optionally.ngrok-free.app/#pricing",
-  "feedback": "https://caiman-alert-optionally.ngrok-free.app/#pricing",
+  "pricing_url": "https://caiman-alert-optionally.ngrok-free.app/#pricing",
+  "feedback_url": "https://caiman-alert-optionally.ngrok-free.app/#pricing",
   "version": "1"
 }
