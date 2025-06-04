@@ -1,5 +1,5 @@
 {
-  "backend_url": "http://localhost:3000",
+  "backend_url": "https://website-image-tool-server.onrender.com",
   "config_header_name": "xtension",
   "pricing_url": "https://earwig-loyal-correctly.ngrok-free.app/#pricing",
   "feedback_url": "https://earwig-loyal-correctly.ngrok-free.app/#pricing",
