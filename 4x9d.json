@@ -1,9 +1,9 @@
 {
   "backend_url": "https://website-image-tool-server.onrender.com",
   "config_header_name": "xtension",
-  "pricing_url": "https://earwig-loyal-correctly.ngrok-free.app/#pricing",
-  "feedback_url": "https://earwig-loyal-correctly.ngrok-free.app/#pricing",
-  "signup_url": "https://earwig-loyal-correctly.ngrok-free.app/signup",
+  "pricing_url": "https://imagecreo.com/#pricing",
+  "feedback_url": "https://imagecreo.com/#feedback",
+  "signup_url": "https://imagecreo.com/signup",
   "forgot_password_url": "https://website-image-tool.onrender.com/reset-password",
   "version": "1"
 }
