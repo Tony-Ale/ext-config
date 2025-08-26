@@ -5,5 +5,6 @@
   "feedback_url": "https://imagecreo.com/#feedback",
   "signup_url": "https://imagecreo.com/signup",
   "forgot_password_url": "https://imagecreo.com/reset-password",
+  "help_url": "https://imagecreo.com/extension-help",
   "version": "1"
 }
